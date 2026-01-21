@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Premnath, Idk what I'm doing</h1>
+<h1 align="center">Hi , I'm Premnath, I like to build stuff</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srilochan7&label=Profile%20views&color=0e75b6&style=flat" alt="srilochan7" /> </p>
 
