@@ -12,7 +12,7 @@
 If you would like to help me with stuff or want me to help you out with something (ehm collaboration ehm), feel free to reach me on my mail (premnath4th@gmail.com) 📩  
 Slide into my mail, i will get back to you (I check my mails).
 
-- ⚡ I also play games :D
+-  I also research game engine optimizations 
 
 
 <h3 align="left">Connect with me:</h3>
