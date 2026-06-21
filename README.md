@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi , I'm Premnath, I like to build stuff</h1>
 
-
-
-
  - I’m Premnath — currently studying CompSci and aimlessly wandering around tech.
  - I enjoy new tech and messing around with it.
  - Currently working on getting a job (ye that's right, no censors).
