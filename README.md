@@ -15,8 +15,4 @@ Slide into my mail, i will get back to you (I check my mails).
 -  I also research game engine optimizations 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/welponstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premnath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/premnath-k-5347a6243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premnath k" height="30" width="40" /></a>
-</p>
+
